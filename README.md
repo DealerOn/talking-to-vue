@@ -5,3 +5,8 @@ If you would like to code along, it'd be best to:
   * Install Node https://nodejs.org/en/download/
   * Install the vue-cli: `npm install -g vue-cli`
   * Scaffold out the boiler plate: `vue init webpack <project-name>`
+
+To run the server:
+* open a console in the server directory
+* `npm install`
+* `npm start`
